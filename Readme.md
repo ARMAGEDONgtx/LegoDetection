@@ -17,4 +17,4 @@ the configuration of each object is unique within a single scene (i.e. an object
 the number of objects in the image is any,
 a JSON file is provided describing how many blocks and what colors each of the objects visible in the image consists of.
 
-
+![example detection](https://user-images.githubusercontent.com/30839728/79692585-41c62080-8266-11ea-86bd-d9facc362274.png)
